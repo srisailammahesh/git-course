@@ -1,0 +1,3 @@
+admin can add user 
+admin can Delte user
+admin can change status
