@@ -2,3 +2,5 @@ Get the USer data...
 git status
 
 process the data
+
+create an avatar for user  1
